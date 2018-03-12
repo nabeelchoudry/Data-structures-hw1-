@@ -1,0 +1,28 @@
+ANALYZE THE fillAtBeginning() METHOD DESCRIBED IN THE HW SPEC IN THE
+MANUAL INSPECTION SECTION HERE. DESCRIBE ITS BIG-O RUNTIME COMPLEXITY
+AND JUSTIFY YOUR ANSWER.
+the Big-O complexity is O(N^2). The nested for loop makes the runtime complexity O(N^2).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUGGEST AN IMPROVED VERSION OF fillAtBeginning() AND GIVE ITS BIG-O
+RUNTIME COMPLEXITY ALONG WITH A JUSTIFICATION BELOW.
+To improve the complexity two separate for loop could be use which makes it N+N, and the big-O of O(N).
+
+
+
+
+
+
